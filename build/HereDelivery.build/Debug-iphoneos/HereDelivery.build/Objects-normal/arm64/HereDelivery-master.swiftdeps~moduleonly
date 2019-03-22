@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "1b860c6c5c044101be29b6d30665b714"
+build_time: [1553280202, 978502000]
+inputs:
+  "/Users/arbibashaev/Desktop/HereApp/HereDelivery/HereDelivery/ViewController.swift": [1553280197, 0]
+  "/Users/arbibashaev/Desktop/HereApp/HereDelivery/HereDelivery/AppDelegate.swift": [1553280197, 0]
